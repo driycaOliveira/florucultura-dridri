@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recompensas>
+    <pirata>
+        <id>	1	</id>
+        <nome>	Agapanto	</nome>
+        <recompensa>	91,20	</recompensa>
+        <status>	disponivel	</status>
+    </pirata>
+    <pirata>
+        <id>	2	</id>
+        <nome>	Amarilis	</nome>
+        <recompensa>	169,48	</recompensa>
+        <status>	disponivel	</status>
+    </pirata>
+    <pirata>
+        <id>	3	</id>
+        <nome>	Angelia	</nome>
+        <recompensa>	159,46	</recompensa>
+        <status>	esgotado	</status>
+    </pirata>
+    <pirata>
+        <id>	4	</id>
+        <nome>	Angelonia	</nome>
+        <recompensa>	111,44	</recompensa>
+        <status>	disponivel	</status>
+    </pirata>
+    <pirata>
+        <id>	5	</id>
+        <nome>	Anturio	</nome>
+        <recompensa>	155,70	</recompensa>
+        <status>	esgotado	</status>
+    </pirata>
+    <pirata>
+        <id>	6	</id>
+        <nome>	Hortensia	</nome>
+        <recompensa>	149,90	</recompensa>
+        <status>	disponivel	</status>
+    </pirata>
+    <pirata>
+        <id>	7	</id>
+        <nome>	Azeleia	</nome>
+        <recompensa>	294,86	</recompensa>
+        <status>	disponivel	</status>
+    </pirata>
+    <pirata>
+        <id>	8	</id>
+        <nome>	Begonia	</nome>
+        <recompensa>	260,65	</recompensa>
+        <status>	esgotado	</status>
+    </pirata>
+    <pirata>
+        <id>	9	</id>
+        <nome>	Bela-emília	</nome>
+        <recompensa>	111,36	</recompensa>
+        <status>	disponivel	</status>
+    </pirata>
+    <pirata>
+        <id>	10	</id>
+        <nome>	Borboleteira	</nome>
+        <recompensa>	278,01	</recompensa>
+        <status>	disponivel	</status>
+    </pirata>
